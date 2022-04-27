@@ -1,0 +1,54 @@
+/* styling button  */
+.buttn{
+    border-radius: 10px;
+    position: absolute;
+    top: 80%;
+    right: 0;
+}
+.btn1 img{
+    height: 40px;
+    width: 33px;
+}
+
+/* form div desing  */
+.container{
+    border: 5px solid gray;
+    border-radius: 25px;
+    position: fixed;
+    display: none;
+    width: 60%;
+    height: 40%;
+    top: 20%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(212, 251, 255);
+    z-index: 2;
+    cursor: pointer;
+}
+.formElement{
+    border: 2px solid gray;
+    height: 45px;
+    width: 275px;
+    border-radius: 10px;
+    margin-left: 10rem;
+    margin-top: 2rem;
+}
+.formElement1{
+    border: 2px solid gray;
+    height: 45px;
+    width: 275px;
+    border-radius: 10px;
+    margin-left: 10rem;
+    margin-top: 2rem;
+}
+.badge{
+    background-color: rgb(34, 193, 193);
+}
+.customerinfo p{
+    font-size: 25px;
+}
+.btn2{
+    margin-top: 2rem;
+    margin-left: 10rem;
+}
